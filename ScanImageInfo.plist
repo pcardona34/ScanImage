@@ -1,0 +1,15 @@
+{
+    ApplicationDescription = "A GNUstep Scan Application";
+    ApplicationIcon = "ScanImage.tiff";
+    ApplicationName = ScanImage;
+    ApplicationRelease = "0.2";
+    Copyright = "Copyright (C) 2024 - gs-desktop project";
+    CopyrightDescription = "Released under GPL v2";
+	 Authors = ( "Ondrej Florian");
+    FullVersionID = "0.1";
+    NSExecutable = ScanImage;
+    NSIcon = "ScanImage.tiff";
+    NSMainNibFile = "ScanImage.gorm";
+    NSPrincipalClass = NSApplication;
+    NSRole = Application;
+}
