@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Categories=X-GNUstep;
-Name=ScanImage
-StartupWMClass=ScanImage
-Comment=A GNUstep Scan Application
-Icon=/lib/GNUstep/Applications/ScanImage.app/Resources/ScanImage.tiff
-Exec=/usr/bin/openapp ScanImage
